@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pitxunet
+- 👋 Hi, I’m Estitxu Larralde Erasun (AKA @Pitxunet)
 - 👀 I’m interested in Data Analytics, Data Storytelling, Data Science
 - 🌱 I’m currently learning Tableau, Machine Learning.
 - 💞️ I’m looking to collaborate on any beginner friendly projects. I know some Python, Pandas, SQL. 
